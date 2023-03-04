@@ -1,2 +1,2 @@
-# course-javascript
+# Course-JS-Professional
 Repositorio Biblia de JavaScript
